@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arslanshahab
 - 👀 I’m interested in MERN Development
-- 🌱 I’m currently learning Next.JS and GraphQL
+- 🌱 I’m currently exploring DevOps
 - 📫 How to reach me: arslanshahab@gmail.com
 
 <!---
